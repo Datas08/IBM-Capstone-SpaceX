@@ -6,10 +6,6 @@ network.
 
 ![landing_1](https://github.com/Datas08/IBM-Capstone-SpaceX/assets/140479274/1eeb1dc3-2aa5-4020-9de1-2ef610ca7d79)
 
-Several examples of an unsuccessful landing are shown here:
-
-![crash](https://github.com/Datas08/IBM-Capstone-SpaceX/assets/140479274/6bd8d2ff-1cde-4bd5-a01c-8e29b3041f68)
-
 Most unsuccessful landings are planed. Space X; performs a controlled landing in the oceans.
 
 ---
