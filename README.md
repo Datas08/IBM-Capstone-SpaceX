@@ -37,6 +37,11 @@ Most unsuccessful landings are planed. Space X; performs a controlled landing in
 ### 4. EDA
  - Explored data with different charts like scatter plots, catplots between different columns to gain insight about the correlation between them
  - Encoded the categorical columns with .get_dummies() and changed the data type of all columns to be float
+![Screenshot 2024-05-28 191726](https://github.com/Datas08/IBM-Capstone-SpaceX/assets/140479274/bb2a3941-4e5f-4f6a-b01b-101acaf42598)
+![Screenshot 2024-05-28 191653](https://github.com/Datas08/IBM-Capstone-SpaceX/assets/140479274/fbde3bbb-caed-432c-b21a-0be72dd3e295)
+![Screenshot 2024-05-28 191642](https://github.com/Datas08/IBM-Capstone-SpaceX/assets/140479274/4a97527f-48bd-48e2-bbe8-6230a60911d6)
+![Screenshot 2024-05-28 191741](https://github.com/Datas08/IBM-Capstone-SpaceX/assets/140479274/98abb447-0fc4-44d3-b714-1af68084d791)
+
 
 ### 5. Visualisation with Folium
  - Used the Folium module to create maps and markers to highlight vicinity of sites to the coastal areas
