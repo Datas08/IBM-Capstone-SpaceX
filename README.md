@@ -40,9 +40,15 @@ Most unsuccessful landings are planed. Space X; performs a controlled landing in
 
 ### 5. Visualisation with Folium
  - Used the Folium module to create maps and markers to highlight vicinity of sites to the coastal areas
+![Screenshot 2024-05-28 191311](https://github.com/Datas08/IBM-Capstone-SpaceX/assets/140479274/dc44a71d-081d-43e8-997a-1eb6ff0fdd9f)
+![Screenshot 2024-05-28 191248](https://github.com/Datas08/IBM-Capstone-SpaceX/assets/140479274/8c084f27-9ece-48cf-9897-3f226b1f2d7f)
+   
 
 ### 6. Interactive Dashboard
-- Used plotly to create dyanmic pie chart with dropdown and a scatter plot with slider
+- Used plotly and dash to create dyanmic pie chart with dropdown and a scatter plot with slider
+ ![Screenshot 2024-05-28 172250](https://github.com/Datas08/IBM-Capstone-SpaceX/assets/140479274/6ec4d4eb-99d0-4ec3-ad31-04096fc8d8ac)
+![Screenshot 2024-05-28 172301](https://github.com/Datas08/IBM-Capstone-SpaceX/assets/140479274/8f8c946f-80df-4d7d-858d-2fab9b8816f6)
+
 
 ### 7. Predictive Analytics
 - Created X and y dataframes from exisiting data
