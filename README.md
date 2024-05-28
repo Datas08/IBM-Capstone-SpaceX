@@ -3,17 +3,3 @@
 
 ![](https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/IBMDeveloperSkillsNetwork-DS0701EN-SkillsNetwork/api/Images/crash.gif)
 
-Several examples of an unsuccessful landing are shown here:
-
-![](https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/IBMDeveloperSkillsNetwork-DS0701EN-SkillsNetwork/api/Images/crash.gif)
-
-#### Most unsuccessful landings are planed. Space X; performs a controlled landing in the oceans.
----
-### Methodology:
-1. Data Collection through open source SpaceX API
-2. Data Wrangling and initial data exploration
-3. Data Exploration with SQLite(Sqlalchemy)
-4. EDA and feature selection
-5. Visualisation with Folium
-6. Interactive Dashboard with Plotly
-7.Predicitive Analytics
