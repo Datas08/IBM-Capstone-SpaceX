@@ -57,8 +57,18 @@ Most unsuccessful landings are planed. Space X; performs a controlled landing in
  --
 
  ### Results
- 1. All models performed more or less similarly, SVM and Decision Tree performed the best
- 2. The higher the payload mass, greater is the success rate for all launch sites
- 3. 
-   
+ 1. Higher payload mass for flight numbers > 50 have high success rate
+ 2. As the flight number increased, the chances of success increased(i.e the recent flights had a higher chances of successful landing of first stage)
+ 3. Orbits ES-l1, GEO, HEO, SSO and TLI have highest success rates while SO has the lowest(0%)
+ 4. Significant correlation between number of flights and landing success in LEO orbit, weak correlation in GTO orbit
+ 5. With heavy payloads the successful landing or positive landing rate are more for Polar(PO) , LEO and MEO
+ 6. Success rate since 2013 kept increasing till 2022
+ 7. All launch sites are in close proximty to coastal areas, equator and highway. Generally there are a distance away from residential zones
+ 8. All models performed similarly, with Support Vector Machine and Decision tree classifier performing the best
+ 9. Successfully deployed the app on streamlit
+
+--
+This is a guided project provided by IBM and coursera, since I was facing issues with jupyter lite lab (progress was not saving and the format of
+downloaded file was not properly displayed, I had to execute the tasks in the localhost jupyter. The tasks and content are provided by IBM skills
+network
 
