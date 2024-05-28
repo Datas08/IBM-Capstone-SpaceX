@@ -10,7 +10,7 @@ Several examples of an unsuccessful landing are shown here:
 
 Most unsuccessful landings are planed. Space X; performs a controlled landing in the oceans.
 
---
+---
 ### Methodology:
 ### 1. Data Collection (API)
 - Requested data from open source SpaceX API(rocket launches)
@@ -54,7 +54,7 @@ Most unsuccessful landings are planed. Space X; performs a controlled landing in
 - Identified the best model based on accuracy ,F1 score and best scores
 - Deployed the model on streamlit
 
- --
+ ---
 
  ### Results
  1. Higher payload mass for flight numbers > 50 have high success rate
@@ -67,7 +67,7 @@ Most unsuccessful landings are planed. Space X; performs a controlled landing in
  8. All models performed similarly, with Support Vector Machine and Decision tree classifier performing the best
  9. Successfully deployed the app on streamlit
 
---
+---
 This is a guided project provided by IBM and coursera, since I was facing issues with jupyter lite lab (progress was not saving and the format of
 downloaded file was not properly displayed, I had to execute the tasks in the localhost jupyter. The tasks and content are provided by IBM skills
 network
