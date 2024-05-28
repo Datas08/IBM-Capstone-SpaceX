@@ -74,7 +74,7 @@ Most unsuccessful landings are planed. Space X; performs a controlled landing in
  6. Success rate since 2013 kept increasing till 2022
  7. All launch sites are in close proximty to coastal areas, equator and highway. Generally there are a distance away from residential zones
  8. All models performed similarly, with Support Vector Machine and Decision tree classifier performing the best
- 9. Successfully deployed the app on streamlit
+ 9. Successfully deployed the app on [streamlit](https://spacex-app-mba9g86gwd2k5jdwtxg6sz.streamlit.app/)
 
 ---
 
